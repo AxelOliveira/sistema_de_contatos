@@ -17,8 +17,3 @@ Projeto desenvolvido em Python para gerenciamento de contatos via terminal.
 
 - `main.py` → código principal
 - `contatos.txt` → armazenamento dos dados
-
-## ▶️ Como executar
-
-```bash
-python main.py
